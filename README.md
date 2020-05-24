@@ -9,8 +9,8 @@ Use-Case Diagram:
 
 Exercitiul 4.\
 Class Diagram:\
-![Exercise 4 image](ex4.jpg)
+![Exercise 4 image](class_diagram_ex4.jpg)
 
 Use-Case Diagram:
 
-![Exercise 4 image](usecase.jpg)
+![Exercise 4 image](useCase_diagram_ex4.jpg)
